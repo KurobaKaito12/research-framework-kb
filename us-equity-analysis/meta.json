@@ -1,0 +1,18 @@
+{
+  "name": "us-equity-analysis",
+  "title": "美股市场综合分析",
+  "description": "盈利×估值定价框架、AI周期、资金流与情绪",
+  "trigger": "",
+  "references": [
+    "01-macro-environment",
+    "02-pricing-framework",
+    "03-earnings-and-valuation",
+    "04-flows-and-sentiment",
+    "05-sector-and-style",
+    "06-ai-investment-cycle",
+    "07-data-sources",
+    "08-output-templates",
+    "09-common-misconceptions"
+  ],
+  "source": "public-research"
+}

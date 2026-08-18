@@ -1,0 +1,17 @@
+{
+  "name": "fiscal-policy-analysis",
+  "title": "财政政策分析",
+  "description": "四本账、三层次赤字、税收体系、地方债",
+  "trigger": "",
+  "references": [
+    "01-core-framework",
+    "02-tax-system",
+    "03-local-finance",
+    "04-local-bonds",
+    "05-deficit-and-tools",
+    "06-fiscal-deposits",
+    "07-budget-and-tone",
+    "08-application-and-commentary"
+  ],
+  "source": "public-research"
+}

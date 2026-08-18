@@ -1,0 +1,17 @@
+{
+  "name": "industry-analysis",
+  "title": "行业研究分析",
+  "description": "行业研究方法论，11模块深度分析框架",
+  "trigger": "",
+  "references": [
+    "TMT",
+    "交易面与季节性补充",
+    "制造",
+    "医药",
+    "周期",
+    "商业模式与供给端分析补充",
+    "消费",
+    "金融"
+  ],
+  "source": "public-research"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "quant-market-timing",
+  "title": "A股多维量化择时",
+  "description": "估值/情绪/资金/技术多维融合择时",
+  "trigger": "",
+  "references": [],
+  "source": "public-research"
+}

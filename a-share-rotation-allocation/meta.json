@@ -1,0 +1,16 @@
+{
+  "name": "a-share-rotation-allocation",
+  "title": "风格/行业/主线轮动方法论",
+  "description": "风格研判、行业比较、主线跟踪和情绪周期判断",
+  "trigger": "",
+  "references": [
+    "01-style-rotation",
+    "02-sector-rotation",
+    "03-theme-mainline",
+    "04-emotion-cycle",
+    "05-seasonal-effects",
+    "06-dividend-strategy",
+    "07-position-odds"
+  ],
+  "source": "public-research"
+}

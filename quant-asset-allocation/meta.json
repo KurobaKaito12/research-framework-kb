@@ -1,0 +1,8 @@
+{
+  "name": "quant-asset-allocation",
+  "title": "量化大类资产配置",
+  "description": "三层次逻辑（经济周期/宏观因子/趋势追踪）资产配置",
+  "trigger": "",
+  "references": [],
+  "source": "public-research"
+}

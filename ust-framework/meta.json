@@ -1,0 +1,21 @@
+{
+  "name": "ust-framework",
+  "title": "美债利率走势研判框架",
+  "description": "五碗面+Clarida四因素的美债利率研判",
+  "trigger": "",
+  "references": [
+    "00-framework-overview",
+    "01-fundamentals",
+    "02-policy",
+    "03-liquidity",
+    "04-liquidity-offshore",
+    "05-supply-demand",
+    "06-sentiment",
+    "07-execution",
+    "08-synthesis",
+    "09-ust-output-templates",
+    "10-ust-writing-standards",
+    "11-ust-data-sources"
+  ],
+  "source": "public-research"
+}

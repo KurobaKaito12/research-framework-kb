@@ -1,0 +1,8 @@
+{
+  "name": "quant-style-rotation",
+  "title": "A股风格因子择时与轮动",
+  "description": "趋势+拐点模型融合的风格择时",
+  "trigger": "",
+  "references": [],
+  "source": "public-research"
+}

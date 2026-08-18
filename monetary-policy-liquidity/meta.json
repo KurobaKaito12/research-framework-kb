@@ -1,0 +1,19 @@
+{
+  "name": "monetary-policy-liquidity",
+  "title": "货币政策与流动性分析框架",
+  "description": "核心概念、货币创造、央行分析、流动性分析",
+  "trigger": "",
+  "references": [
+    "01-core-concepts",
+    "02-money-creation",
+    "03-cenbank-policy",
+    "04-narrow-liquidity",
+    "05-broad-liquidity",
+    "06-capital-market-liquidity",
+    "07-integrated-analysis",
+    "08-application",
+    "09-monetary-policy-report",
+    "10-expectation-gap"
+  ],
+  "source": "public-research"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "us-macro-handbook",
+  "title": "美国基本面研究手册",
+  "description": "增长/就业/通胀数据解读与四维框架分析",
+  "trigger": "",
+  "references": [
+    "01-gdp-and-growth",
+    "02-labor-market",
+    "03-inflation",
+    "04-data-methodology",
+    "05-common-misconceptions",
+    "06-data-event-playbook",
+    "fw-01-cycle-positioning",
+    "fw-02-transmission-chains",
+    "fw-03-monetary-fiscal-cycle-transmission",
+    "fw-04-tariff-and-supply-shocks",
+    "fw-05-market-pricing-framework",
+    "fw-06-ai-capex-and-consumer-kshape"
+  ],
+  "source": "public-research"
+}

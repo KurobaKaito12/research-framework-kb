@@ -1,0 +1,18 @@
+{
+  "name": "a-share-stock-deep-analysis",
+  "title": "A股个股深度分析框架",
+  "description": "商业模式、财务分析、护城河评估、估值定价、风险识别",
+  "trigger": "",
+  "references": [
+    "01-business-model",
+    "02-financial-analysis",
+    "03-fraud-detection",
+    "04-moat-analysis",
+    "05-valuation-methods",
+    "06-catalyst-expectation",
+    "07-risk-detection",
+    "08-industry-research",
+    "09-stock-grading"
+  ],
+  "source": "public-research"
+}

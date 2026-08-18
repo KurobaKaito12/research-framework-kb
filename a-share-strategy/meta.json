@@ -1,0 +1,14 @@
+{
+  "name": "a-share-strategy",
+  "title": "A股权益投资策略研判框架",
+  "description": "自上而下的A股策略研判：大势、风格、行业三层",
+  "trigger": "",
+  "references": [
+    "01-trend",
+    "02-style",
+    "03-industry",
+    "04-data-sources",
+    "05-checklist"
+  ],
+  "source": "public-research"
+}

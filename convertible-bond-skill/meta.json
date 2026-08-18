@@ -1,0 +1,20 @@
+{
+  "name": "convertible-bond-skill",
+  "title": "中国可转债深度分析",
+  "description": "可转债研究框架",
+  "trigger": "",
+  "references": [
+    "01-basic-elements",
+    "02-key-metrics",
+    "03-equity-analysis",
+    "04-credit-risk",
+    "05-clause-game",
+    "06-valuation",
+    "07-market-overview",
+    "08-quant-strategies",
+    "09-lifecycle",
+    "10-pricing-models",
+    "11-cb-analysis-template"
+  ],
+  "source": "public-research"
+}

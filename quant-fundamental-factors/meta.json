@@ -1,0 +1,8 @@
+{
+  "name": "quant-fundamental-factors",
+  "title": "基本面量化选股因子",
+  "description": "价值/成长/分析师预期因子改造与合成",
+  "trigger": "",
+  "references": [],
+  "source": "public-research"
+}

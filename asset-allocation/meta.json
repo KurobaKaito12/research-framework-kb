@@ -1,0 +1,19 @@
+{
+  "name": "asset-allocation",
+  "title": "大类资产配置分析技能",
+  "description": "系统化的大类资产配置研究框架",
+  "trigger": "",
+  "references": [
+    "asset-class-analysis",
+    "china-context",
+    "classic-models",
+    "equity-bond-dynamics",
+    "institutional-practice",
+    "micro-foundation",
+    "portfolio-process",
+    "risk-parity",
+    "theory-evolution",
+    "valuation-timing"
+  ],
+  "source": "public-research"
+}

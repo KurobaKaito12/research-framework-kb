@@ -1,0 +1,18 @@
+{
+  "name": "fixed-income-analysis",
+  "title": "固收研究框架",
+  "description": "债市五碗面分析框架",
+  "trigger": "",
+  "references": [
+    "01-returns-and-profit-model",
+    "02-market-mainline-evolution",
+    "03-fundamentals",
+    "04-monetary-policy-and-liquidity",
+    "05-supply-demand-institutions",
+    "06-strategy-framework",
+    "07-trading-strategies",
+    "08-historical-review",
+    "09-cross-asset-and-low-rate"
+  ],
+  "source": "public-research"
+}

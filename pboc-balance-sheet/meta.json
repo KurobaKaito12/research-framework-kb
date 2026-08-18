@@ -1,0 +1,12 @@
+{
+  "name": "pboc-balance-sheet",
+  "title": "中国央行资产负债表深度分析",
+  "description": "央行资产负债表六步分析法",
+  "trigger": "",
+  "references": [
+    "assets",
+    "framework",
+    "liabilities"
+  ],
+  "source": "public-research"
+}

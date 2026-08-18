@@ -1,0 +1,15 @@
+{
+  "name": "credit-analysis-skill",
+  "title": "信用债主体深度信用分析",
+  "description": "金融债、城投债、产业债等全品种信用债的信用研究",
+  "trigger": "",
+  "references": [
+    "annual-report-extraction",
+    "data-priority",
+    "financial-indicators",
+    "framework_router",
+    "report-structure",
+    "risk-checklist"
+  ],
+  "source": "public-research"
+}

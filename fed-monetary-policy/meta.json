@@ -1,0 +1,19 @@
+{
+  "name": "fed-monetary-policy",
+  "title": "美联储货币政策与利率传导",
+  "description": "美联储决策机制、资产负债表、利率走廊",
+  "trigger": "",
+  "references": [
+    "01-fed-decision-and-communication",
+    "02-fed-balance-sheet-and-reserves",
+    "03-rate-corridor-and-money-rates",
+    "04-market-expectations",
+    "05-repo-and-basis-trade",
+    "06-rate-transmission-and-curve",
+    "07-fed-treasury-and-fiscal-dominance",
+    "08-data-sources-and-workflow",
+    "09-common-misconceptions",
+    "10-rate-cycles-and-assets"
+  ],
+  "source": "public-research"
+}

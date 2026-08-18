@@ -1,0 +1,14 @@
+{
+  "name": "overseas-strategy",
+  "title": "港股与海外权益策略研判框架",
+  "description": "港股为核心、美股为辅的海外权益策略",
+  "trigger": "",
+  "references": [
+    "00-markets",
+    "01-hk",
+    "02-us",
+    "03-data-sources",
+    "04-checklist"
+  ],
+  "source": "public-research"
+}

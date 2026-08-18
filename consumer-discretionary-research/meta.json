@@ -1,0 +1,19 @@
+{
+  "name": "consumer-discretionary-research",
+  "title": "可选消费研究框架",
+  "description": "酒店/餐饮/纺服/美护/家电五子行业研究统一入口",
+  "trigger": "",
+  "references": [
+    "catering_analysis_framework",
+    "catering_indicator_data",
+    "cosmetics_analysis_framework",
+    "cosmetics_indicator_data",
+    "hotel_analysis_framework",
+    "hotel_indicator_data",
+    "household_appliance_analysis_framework",
+    "household_appliance_indicator_data",
+    "textile_apparel_analysis_framework",
+    "textile_apparel_indicator_data"
+  ],
+  "source": "public-research"
+}

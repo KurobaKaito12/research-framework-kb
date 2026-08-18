@@ -1,0 +1,18 @@
+{
+  "name": "technical-analysis",
+  "title": "A股技术分析技能库",
+  "description": "K线理论、趋势分析、技术指标、量价关系",
+  "trigger": "",
+  "references": [
+    "a-share-features",
+    "candlestick",
+    "chip-distribution",
+    "classic-theories",
+    "indicators",
+    "multi-timeframe",
+    "price-patterns",
+    "trend-analysis",
+    "volume-price"
+  ],
+  "source": "public-research"
+}

@@ -1,0 +1,404 @@
+[
+  {
+    "name": "a-share-rotation-allocation",
+    "title": "风格/行业/主线轮动方法论",
+    "description": "风格研判、行业比较、主线跟踪和情绪周期判断",
+    "references": [
+      "01-style-rotation",
+      "02-sector-rotation",
+      "03-theme-mainline",
+      "04-emotion-cycle",
+      "05-seasonal-effects",
+      "06-dividend-strategy",
+      "07-position-odds"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "a-share-stock-deep-analysis",
+    "title": "A股个股深度分析框架",
+    "description": "商业模式、财务分析、护城河评估、估值定价、风险识别",
+    "references": [
+      "01-business-model",
+      "02-financial-analysis",
+      "03-fraud-detection",
+      "04-moat-analysis",
+      "05-valuation-methods",
+      "06-catalyst-expectation",
+      "07-risk-detection",
+      "08-industry-research",
+      "09-stock-grading"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "a-share-strategy",
+    "title": "A股权益投资策略研判框架",
+    "description": "自上而下的A股策略研判：大势、风格、行业三层",
+    "references": [
+      "01-trend",
+      "02-style",
+      "03-industry",
+      "04-data-sources",
+      "05-checklist"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "asset-allocation",
+    "title": "大类资产配置分析技能",
+    "description": "系统化的大类资产配置研究框架",
+    "references": [
+      "asset-class-analysis",
+      "china-context",
+      "classic-models",
+      "equity-bond-dynamics",
+      "institutional-practice",
+      "micro-foundation",
+      "portfolio-process",
+      "risk-parity",
+      "theory-evolution",
+      "valuation-timing"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "china-macro-tracker",
+    "title": "中国宏观经济追踪",
+    "description": "中国宏观经济研究的基础skill",
+    "references": [
+      "framework_capacity",
+      "framework_classic_cycle",
+      "framework_common_pitfalls",
+      "framework_economy_structure",
+      "framework_external",
+      "framework_financing",
+      "framework_long_term_qa",
+      "framework_macro_narratives",
+      "framework_market_focus",
+      "framework_new_momentum",
+      "framework_nominal_price",
+      "framework_policy",
+      "framework_transition",
+      "framework_transmission",
+      "handbook_consumption",
+      "handbook_fai",
+      "handbook_finance",
+      "handbook_fiscal",
+      "handbook_fx",
+      "handbook_gdp",
+      "handbook_industrial",
+      "handbook_pmi",
+      "handbook_prices",
+      "handbook_trade",
+      "indicator-guide"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "convertible-bond-skill",
+    "title": "中国可转债深度分析",
+    "description": "可转债研究框架",
+    "references": [
+      "01-basic-elements",
+      "02-key-metrics",
+      "03-equity-analysis",
+      "04-credit-risk",
+      "05-clause-game",
+      "06-valuation",
+      "07-market-overview",
+      "08-quant-strategies",
+      "09-lifecycle",
+      "10-pricing-models",
+      "11-cb-analysis-template"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "credit-analysis-skill",
+    "title": "信用债主体深度信用分析",
+    "description": "金融债、城投债、产业债等全品种信用债的信用研究",
+    "references": [
+      "annual-report-extraction",
+      "data-priority",
+      "financial-indicators",
+      "framework_router",
+      "report-structure",
+      "risk-checklist"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "fed-monetary-policy",
+    "title": "美联储货币政策与利率传导",
+    "description": "美联储决策机制、资产负债表、利率走廊",
+    "references": [
+      "01-fed-decision-and-communication",
+      "02-fed-balance-sheet-and-reserves",
+      "03-rate-corridor-and-money-rates",
+      "04-market-expectations",
+      "05-repo-and-basis-trade",
+      "06-rate-transmission-and-curve",
+      "07-fed-treasury-and-fiscal-dominance",
+      "08-data-sources-and-workflow",
+      "09-common-misconceptions",
+      "10-rate-cycles-and-assets"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "fiscal-policy-analysis",
+    "title": "财政政策分析",
+    "description": "四本账、三层次赤字、税收体系、地方债",
+    "references": [
+      "01-core-framework",
+      "02-tax-system",
+      "03-local-finance",
+      "04-local-bonds",
+      "05-deficit-and-tools",
+      "06-fiscal-deposits",
+      "07-budget-and-tone",
+      "08-application-and-commentary"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "fixed-income-analysis",
+    "title": "固收研究框架",
+    "description": "债市五碗面分析框架",
+    "references": [
+      "01-returns-and-profit-model",
+      "02-market-mainline-evolution",
+      "03-fundamentals",
+      "04-monetary-policy-and-liquidity",
+      "05-supply-demand-institutions",
+      "06-strategy-framework",
+      "07-trading-strategies",
+      "08-historical-review",
+      "09-cross-asset-and-low-rate"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "gold-trader",
+    "title": "黄金交易员实战手册",
+    "description": "黄金交易框架",
+    "references": [],
+    "source": "public-research"
+  },
+  {
+    "name": "industry-analysis",
+    "title": "行业研究分析",
+    "description": "行业研究方法论，11模块深度分析框架",
+    "references": [
+      "TMT",
+      "交易面与季节性补充",
+      "制造",
+      "医药",
+      "周期",
+      "商业模式与供给端分析补充",
+      "消费",
+      "金融"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "interest-rate-derivatives",
+    "title": "利率衍生品研究",
+    "description": "国债期货定价、IRS框架、套保与替代",
+    "references": [
+      "01-core-framework",
+      "02-treasury-futures",
+      "03-treasury-futures-strategies",
+      "04-irs-framework",
+      "05-hedging-and-substitution",
+      "06-output-templates",
+      "07-framework-maintenance",
+      "08-negative-duration"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "monetary-policy-liquidity",
+    "title": "货币政策与流动性分析框架",
+    "description": "核心概念、货币创造、央行分析、流动性分析",
+    "references": [
+      "01-core-concepts",
+      "02-money-creation",
+      "03-cenbank-policy",
+      "04-narrow-liquidity",
+      "05-broad-liquidity",
+      "06-capital-market-liquidity",
+      "07-integrated-analysis",
+      "08-application",
+      "09-monetary-policy-report",
+      "10-expectation-gap"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "overseas-strategy",
+    "title": "港股与海外权益策略研判框架",
+    "description": "港股为核心、美股为辅的海外权益策略",
+    "references": [
+      "00-markets",
+      "01-hk",
+      "02-us",
+      "03-data-sources",
+      "04-checklist"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "pboc-balance-sheet",
+    "title": "中国央行资产负债表深度分析",
+    "description": "央行资产负债表六步分析法",
+    "references": [
+      "assets",
+      "framework",
+      "liabilities"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "technical-analysis",
+    "title": "A股技术分析技能库",
+    "description": "K线理论、趋势分析、技术指标、量价关系",
+    "references": [
+      "a-share-features",
+      "candlestick",
+      "chip-distribution",
+      "classic-theories",
+      "indicators",
+      "multi-timeframe",
+      "price-patterns",
+      "trend-analysis",
+      "volume-price"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "cross-asset-radar",
+    "title": "大类资产隐含预期雷达",
+    "description": "跨资产预期解码与背离扫描",
+    "references": [],
+    "source": "public-research"
+  },
+  {
+    "name": "quant-industry-rotation",
+    "title": "A股量化行业轮动",
+    "description": "景气投资+交易面+机器学习三维度行业轮动",
+    "references": [],
+    "source": "public-research"
+  },
+  {
+    "name": "quant-market-timing",
+    "title": "A股多维量化择时",
+    "description": "估值/情绪/资金/技术多维融合择时",
+    "references": [],
+    "source": "public-research"
+  },
+  {
+    "name": "quant-style-rotation",
+    "title": "A股风格因子择时与轮动",
+    "description": "趋势+拐点模型融合的风格择时",
+    "references": [],
+    "source": "public-research"
+  },
+  {
+    "name": "quant-asset-allocation",
+    "title": "量化大类资产配置",
+    "description": "三层次逻辑（经济周期/宏观因子/趋势追踪）资产配置",
+    "references": [],
+    "source": "public-research"
+  },
+  {
+    "name": "quant-fund-evaluation",
+    "title": "公募基金评价归因筛选",
+    "description": "基金评价、绩效归因与筛选全流程",
+    "references": [],
+    "source": "public-research"
+  },
+  {
+    "name": "quant-fundamental-factors",
+    "title": "基本面量化选股因子",
+    "description": "价值/成长/分析师预期因子改造与合成",
+    "references": [],
+    "source": "public-research"
+  },
+  {
+    "name": "consumer-discretionary-research",
+    "title": "可选消费研究框架",
+    "description": "酒店/餐饮/纺服/美护/家电五子行业研究统一入口",
+    "references": [
+      "catering_analysis_framework",
+      "catering_indicator_data",
+      "cosmetics_analysis_framework",
+      "cosmetics_indicator_data",
+      "hotel_analysis_framework",
+      "hotel_indicator_data",
+      "household_appliance_analysis_framework",
+      "household_appliance_indicator_data",
+      "textile_apparel_analysis_framework",
+      "textile_apparel_indicator_data"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "us-equity-analysis",
+    "title": "美股市场综合分析",
+    "description": "盈利×估值定价框架、AI周期、资金流与情绪",
+    "references": [
+      "01-macro-environment",
+      "02-pricing-framework",
+      "03-earnings-and-valuation",
+      "04-flows-and-sentiment",
+      "05-sector-and-style",
+      "06-ai-investment-cycle",
+      "07-data-sources",
+      "08-output-templates",
+      "09-common-misconceptions"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "us-macro-handbook",
+    "title": "美国基本面研究手册",
+    "description": "增长/就业/通胀数据解读与四维框架分析",
+    "references": [
+      "01-gdp-and-growth",
+      "02-labor-market",
+      "03-inflation",
+      "04-data-methodology",
+      "05-common-misconceptions",
+      "06-data-event-playbook",
+      "fw-01-cycle-positioning",
+      "fw-02-transmission-chains",
+      "fw-03-monetary-fiscal-cycle-transmission",
+      "fw-04-tariff-and-supply-shocks",
+      "fw-05-market-pricing-framework",
+      "fw-06-ai-capex-and-consumer-kshape"
+    ],
+    "source": "public-research"
+  },
+  {
+    "name": "ust-framework",
+    "title": "美债利率走势研判框架",
+    "description": "五碗面+Clarida四因素的美债利率研判",
+    "references": [
+      "00-framework-overview",
+      "01-fundamentals",
+      "02-policy",
+      "03-liquidity",
+      "04-liquidity-offshore",
+      "05-supply-demand",
+      "06-sentiment",
+      "07-execution",
+      "08-synthesis",
+      "09-ust-output-templates",
+      "10-ust-writing-standards",
+      "11-ust-data-sources"
+    ],
+    "source": "public-research"
+  }
+]

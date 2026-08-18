@@ -1,0 +1,17 @@
+{
+  "name": "interest-rate-derivatives",
+  "title": "利率衍生品研究",
+  "description": "国债期货定价、IRS框架、套保与替代",
+  "trigger": "",
+  "references": [
+    "01-core-framework",
+    "02-treasury-futures",
+    "03-treasury-futures-strategies",
+    "04-irs-framework",
+    "05-hedging-and-substitution",
+    "06-output-templates",
+    "07-framework-maintenance",
+    "08-negative-duration"
+  ],
+  "source": "public-research"
+}
